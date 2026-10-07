@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+*.db
+*.db-journal
+# Credenciales de sesión de Baileys (QR)
+auth_info_baileys/
+.DS_Store
+
+# Session scaffolding (Claude notes / handoffs) — not part of the product
+memory/
+handoffs/
